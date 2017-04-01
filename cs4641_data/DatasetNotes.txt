@@ -1,0 +1,4 @@
+messidor_features.arff
+Diabetic Retinopathy Debrecen Data Set
+Contains features that are extracted from the Messidor image set to predict whether an image has signs of diabetic retinopath
+
