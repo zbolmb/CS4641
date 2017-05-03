@@ -1,0 +1,24 @@
+Tester:     weka.experiment.PairedCorrectedTTester -G 3,4,5 -D 1 -R 2 -S 0.05 -result-matrix "weka.experiment.ResultMatrixPlainText -mean-prec 2 -stddev-prec 2 -col-name-width 0 -row-name-width 25 -mean-width 0 -stddev-width 0 -sig-width 0 -count-width 5 -print-col-names -print-row-names -enum-col-names"
+Analysing:  Percent_correct
+Datasets:   6
+Resultsets: 1
+Confidence: 0.05 (two tailed)
+Sorted by:  -
+Date:       4/2/17 12:56 AM
+
+
+Dataset                   (1) functions.M
+-----------------------------------------
+'AT: dr-weka.filters.unsu  (6)    80.58 |
+'AT: dr-weka.filters.unsu  (3)   100.00 |
+'AT: dr-weka.filters.unsu  (3)   100.00 |
+'AT: dr-weka.filters.unsu  (3)   100.00 |
+'AT: dr-weka.filters.unsu  (9)    60.93 |
+'AT: dr-weka.filters.unsu (12)    62.20 |
+-----------------------------------------
+(v/ /*)                                 |
+
+
+Key:
+(1) functions.MultilayerPerceptron '-L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 5' -5990607817048210779
+
